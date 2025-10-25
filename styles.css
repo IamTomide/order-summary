@@ -4,7 +4,7 @@
 }
 
 .wrapper {
-     background-color: hsl(225, 100%, 94%);
+    background-color: hsl(225, 100%, 94%);
     background-image: none;
     font-family: 'Red Hat Display', sans-serif;
     height: 100vh;
@@ -90,6 +90,7 @@
     .wrapper {
         background-color: hsl(225, 100%, 94%);
         background-image: url('./images/pattern-background-desktop.svg');
+        background-size: 100% auto;
         background-repeat: no-repeat;
         background-blend-mode: multiply;
     }
